@@ -32,7 +32,7 @@ p {
 
 .loader__img {
   display: block;
-  animation: appearance 3s ease, moveTitleLeftIco 2s linear 3s;
+  animation: appearance 1.5s ease, moveTitleLeftIco 1s linear 1.5s;
 }
 
 .loader__title {
@@ -40,7 +40,7 @@ p {
   font-weight: 900;
   color: #AFBCD4;
 
-  animation: moveTitleLeft 2s linear;
+  animation: moveTitleLeft 1s linear;
 }
 
 .loader__text {
@@ -55,7 +55,7 @@ p {
 }
 
 .loader__text-content {
-  animation: appearanceText 2s linear;
+  animation: appearanceText 1s linear;
 }
 
 .loader__button {
